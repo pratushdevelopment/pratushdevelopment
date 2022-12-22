@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pratush Mishra
 - 👀 I’m interested in Programming & Problem Solving
-- 🌱 I’m currently learning Java Spring Boot
+- 🌱 I’m currently working as Linux Admin + Load Tester 
 - 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me pratush.mishra@protonmail.com
 
